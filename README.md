@@ -1,5 +1,5 @@
 # mono-syntax theme
 
-A short description of your theme.
+A mostly monochrome syntax theme for [Atom](https://atom.io).
 
-![A screenshot of your theme](https://f.cloud.github.com/assets/69169/2289498/4c3cb0ec-a009-11e3-8dbd-077ee11741e5.gif)
+![Mono Syntax Screenshot](screenshot.png)
