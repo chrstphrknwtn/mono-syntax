@@ -1,13 +1,17 @@
 {
   "name": "mono-syntax",
   "theme": "syntax",
-  "version": "0.0.0",
-  "description": "A short description of your syntax theme",
+  "version": "0.0.1",
+  "description": "A mostly monochrome syntax theme",
   "keywords": [
+    "mono",
+    "monochrome",
+    "monochromatic",
+    "dark",
     "syntax",
     "theme"
   ],
-  "repository": "https://github.com/atom/mono-syntax",
+  "repository": "https://github.com/chrstphrknwtn/mono-syntax",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
