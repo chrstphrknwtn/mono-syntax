@@ -131,6 +131,13 @@ atom-text-editor {
 .syntax--string {
   color: @yellow;
 
+  .syntax--punctuation.syntax--definition.syntax--variable,
+  .syntax--entity.syntax--name.syntax--function,
+  .syntax--support.syntax--class,
+  .syntax--variable {
+    color: inherit;
+  }
+
   &.syntax--regexp {
     color: @cyan;
 
