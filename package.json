@@ -2,18 +2,20 @@
   "name": "mono-syntax",
   "theme": "syntax",
   "version": "0.0.1",
-  "description": "A mostly monochrome syntax theme",
+  "description": "A mostly monochrome and dark syntax theme",
   "keywords": [
     "mono",
     "monochrome",
     "monochromatic",
     "dark",
     "syntax",
-    "theme"
+    "theme",
+    "minimal",
+    "minimalist"
   ],
   "repository": "https://github.com/chrstphrknwtn/mono-syntax",
   "license": "MIT",
   "engines": {
-    "atom": ">=1.0.0 <2.0.0"
+    "atom": ">=1.18.0 <2.0.0"
   }
 }

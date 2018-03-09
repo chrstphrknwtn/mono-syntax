@@ -1,7 +1,7 @@
-# mono-syntax theme
+# Mono Syntax
 
-A mostly monochrome syntax theme for [Atom](https://atom.io).
+A mostly monochrome dark syntax theme for [Atom](https://atom.io).
 
-![Mono Syntax Screenshot](https://raw.githubusercontent.com/chrstphrknwtn/mono-syntax/master/screenshot.png)
+![Mono Syntax Screenshot](screenshot.png)
 
-Mono Syntax with the [One Dark](https://github.com/atom/one-dark-ui) UI theme.
+Mono Syntax with the [Mono UI](https://github.com/atom/mono-ui).
