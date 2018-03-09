@@ -1,7 +1,7 @@
 {
   "name": "mono-syntax",
   "theme": "syntax",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A mostly monochrome and dark syntax theme",
   "keywords": [
     "mono",
